@@ -59,6 +59,11 @@ export default {
             name: 'time',
             type: 'datetime',
             title: 'time'
+        },
+        {
+            name: 'webinar_register_info',
+            title: 'Register Now:',
+            type: 'url'
         }
     ]
 }
