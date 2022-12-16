@@ -24,3 +24,7 @@ a {
     background: black;
   }
 }
+.col-lg-4 {
+  background-color: aqua;
+  color: fuchsia;
+}
